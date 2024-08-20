@@ -1,11 +1,11 @@
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+𝙷𝚒,+𝙸'𝚖+𝙹𝚊𝚗𝚊-𝚈𝚊𝚜𝚎𝚎𝚗+...">
+	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+𝙷𝚒 👋,+𝙸'𝚖+𝙹𝚊𝚗𝚊-𝚈𝚊𝚜𝚎𝚎𝚗+...">
 </div>
 <h3 align="center">𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚢𝚜𝚝𝚎𝚖 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 ✩.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janayaseen14" alt="janayaseen14" /></a> </p>
 
-🎓  Palestine Technical University – Kadoorie <br />
+- 🎓 𝙿𝚊𝚕𝚎𝚜𝚝𝚒𝚗𝚎 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 – 𝙺𝚊𝚍𝚘𝚘𝚛𝚒𝚎 <br />
 - 📫 How to reach me: **janayaseen1442005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC👋🏻+𝙷𝚒,+𝙸'𝚖+𝙹𝚊𝚗𝚊-𝚈𝚊𝚜𝚎𝚎𝚗+...">
+	<img src="https://readme-typing-svg.herokuapp.com/?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BB+𝙷𝚒,+𝙸'𝚖+𝙹𝚊𝚗𝚊-𝚈𝚊𝚜𝚎𝚎𝚗+...">
 </div>
 <h3 align="center">𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚢𝚜𝚝𝚎𝚖 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 ✩.</h3>
 

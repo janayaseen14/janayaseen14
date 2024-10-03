@@ -14,31 +14,9 @@
 </p>
 
 - 🎓 𝙿𝚊𝚕𝚎𝚜𝚝𝚒𝚗𝚎 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 – 𝙺𝚊𝚍𝚘𝚘𝚛𝚒𝚎 <br />
-- 📫 How to reach me: **janayaseen1442005@gmail.com**
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: **janayaseen1442005@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a
-    href="https://www.linkedin.com/in/jana-yaseen-5577722a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkQn7KvuDTCOZ31HElgQ8%2Fg%3D%3D"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="linkedin.com/in/jana-yaseen-5577722a5"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://codeforces.com/profile/jumana114" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-      alt="jumana114"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
@@ -81,4 +59,27 @@
     />
   </a>
 </p>
+
+
+<h3 align="left">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 (◕‿◕) :</h3>
+<p align="left">
+  <a
+    href="https://www.linkedin.com/in/jana-yaseen-5577722a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkQn7KvuDTCOZ31HElgQ8%2Fg%3D%3D"
+    target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin.com/in/jana-yaseen-5577722a5"
+      height="30"
+      width="40"
+  /></a>    
+  <a href="https://codeforces.com/profile/jumana114" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+      alt="jumana114"
+      height="30"
+      width="40"
+  /></a>    
+</p>  
 

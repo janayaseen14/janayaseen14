@@ -14,7 +14,7 @@
 </p>
 
 - 🎓 𝙿𝚊𝚕𝚎𝚜𝚝𝚒𝚗𝚎 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 – 𝙺𝚊𝚍𝚘𝚘𝚛𝚒𝚎 <br />
-- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: **janayaseen1442005@gmail.com**
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: [**Email**](mailto://janayaseen1442005@gmail.com)
 
 <h3 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :</h3>
 <p align="left">

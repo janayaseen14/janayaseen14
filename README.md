@@ -7,10 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=janayaseen14"
-      alt="janayaseen14"
-  /></a>
+    ></a>
 </p>
 
 - 🎓 𝙿𝚊𝚕𝚎𝚜𝚝𝚒𝚗𝚎 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 – 𝙺𝚊𝚍𝚘𝚘𝚛𝚒𝚎 <br />
